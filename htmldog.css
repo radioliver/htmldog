@@ -1,6 +1,18 @@
+
+html {
+    border-style: dashed;
+    border-color: brown;
+    border-radius: 20px;
+    border-width: 15px;
+    margin: 20px;
+}
+
 body {  
-    background-color: lightcoral;
-    text-align: right;
+    background-color: rgb(161, 139, 109);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    margin-left: 40px;
 }
 
 p
@@ -20,3 +32,13 @@ img {
     box-shadow: inset;
 }
 
+th{
+    color: rgb(143, 25, 25);
+}
+img{
+    border-radius: 30%;
+}
+
+li{
+    font-family: sans-serif;
+}
