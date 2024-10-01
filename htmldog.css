@@ -1,0 +1,22 @@
+body {  
+    background-color: lightcoral;
+    text-align: right;
+}
+
+p
+{
+    text-shadow: 2cm;
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+img {
+    shape-image-threshold: calc(10);
+    shape-image-threshold: var(text-align);
+    box-shadow: inset;
+}
+
